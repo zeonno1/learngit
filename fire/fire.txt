@@ -1,1 +1,2 @@
-this is a fire file
+this is a fire file 
+now this a new label
